@@ -1,2 +1,4 @@
 ###  Practicig Git Commands 
-## Thank You
+## By using this file i start learning data science project from scratch
+
+
